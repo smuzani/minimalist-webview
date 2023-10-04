@@ -1,4 +1,4 @@
-package com.template.designSystem.atom
+package com.webview.designSystem.atom
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -8,10 +8,10 @@ import androidx.compose.material.TopAppBar
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.template.designSystem.theme.LightBlack
-import com.template.designSystem.theme.TemplateTheme
-import com.template.designSystem.theme.Purple500
-import com.template.designSystem.theme.Type
+import com.webview.designSystem.theme.LightBlack
+import com.webview.designSystem.theme.TemplateTheme
+import com.webview.designSystem.theme.Purple500
+import com.webview.designSystem.theme.Type
 
 @Preview(showBackground = true)
 @Composable

@@ -7,7 +7,7 @@ android {
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.minimalist.template"
+        applicationId "com.minimalist.webview"
         minSdk 26
         targetSdk 34
         versionCode 1
@@ -43,12 +43,11 @@ android {
             excludes += '/META-INF/{AL2.0,LGPL2.1}'
         }
     }
-    namespace 'com.template'
+    namespace 'com.minimalist.webview'
 }
 
 dependencies {
     implementation project(':designSystem')
-    implementation project(':randomuser')
     implementation "androidx.core:core-ktx:$core_ktx_version"
     implementation "androidx.appcompat:appcompat:$appcompat_version"
 

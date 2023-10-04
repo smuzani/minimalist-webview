@@ -1,8 +1,0 @@
-appId: com.minimalist.template
----
-- launchApp
-- assertVisible: "Get Users"
-- tapOn: "Get Users"
-- tapOn:
-    point: "25%,54%"
-- assertVisible: "User Profile"

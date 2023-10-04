@@ -1,4 +1,4 @@
-package com.template.designSystem.theme
+package com.webview.designSystem.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

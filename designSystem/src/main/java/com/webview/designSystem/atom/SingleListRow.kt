@@ -1,4 +1,4 @@
-package com.template.designSystem.atom
+package com.webview.designSystem.atom
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
@@ -15,7 +15,7 @@ import androidx.compose.ui.graphics.Color.Companion.Black
 import androidx.compose.ui.graphics.Color.Companion.Gray
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.template.designSystem.theme.TemplateTheme
+import com.webview.designSystem.theme.TemplateTheme
 
 @Preview(showBackground = true)
 @Composable

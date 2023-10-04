@@ -1,4 +1,4 @@
-package com.template.designSystem.atom
+package com.webview.designSystem.atom
 
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
@@ -7,7 +7,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.foundation.Canvas
 import androidx.compose.ui.unit.dp
-import com.template.designSystem.theme.ReallyLightBlack
+import com.webview.designSystem.theme.ReallyLightBlack
 
 @Composable fun HLine() {
   Canvas(

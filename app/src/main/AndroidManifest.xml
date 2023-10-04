@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Template">
         <activity
-            android:name="com.template.MainActivity"
+            android:name="com.webview.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.Template.NoActionBar">
